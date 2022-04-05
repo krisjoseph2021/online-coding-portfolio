@@ -1,11 +1,14 @@
 /*this is a comment in CSS*/
+*{
+    margin: 0 auto;
+}
+
 html {
     background-color: #E7E7E7;
 }
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    margin: 0;
 }
 
 h1 {
